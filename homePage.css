@@ -1,7 +1,7 @@
 body, html {
   height: 100%;
   margin: 0;
-background: url("images/deepam.jpg") no-repeat center fixed;
+background: url("./deepam.jpg") no-repeat center fixed;
   background-color: #cccccc;
   background-size: cover;
 }
